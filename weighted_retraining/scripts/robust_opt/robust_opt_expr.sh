@@ -130,7 +130,7 @@ unlabel_sample_type='--unlabel_sample_type=gaussian'
 # unlabel_sample_type='--unlabel_sample_type=random'
 gaussian_lr='--gaussian_lr=1e-3'
 student_fit_lr='--student_fit_lr=0.01'
-unlabel_loss_ratio='--unlabel_loss_ratio=1'
+unlabel_loss_ratio='--unlabel_loss_ratio=0.1'
 unlabel_loss='--unlabel_loss=MSE'
 joint_train_epochs='--joint_train_epochs=20'
 
